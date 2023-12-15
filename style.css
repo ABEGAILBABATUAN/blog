@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+#home{
+    height: 720px;
+    background-color: aqua;
+}
+
+#t-spot{
+    height: 100%;
+    background-color: antiquewhite;
+    background-image: -o-repeating-linear-gradient();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#history{
+    height: 720px;
+    background-color: blueviolet;
+}
+
+#environment{
+    height: 720px;
+    background-color: blue;
+}
+h1{
+    color: black;
+}
+.dropdown-menu{
+    background-color: black;
+    color: rgb(255, 252, 252);
+}
+.dropdown-item{
+    color: white;
+}
+.content img{
+    height:200;width:200;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 100
+}
